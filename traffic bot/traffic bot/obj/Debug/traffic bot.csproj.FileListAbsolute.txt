@@ -1,0 +1,10 @@
+C:\Users\cuciu\source\repos\traffic bot\traffic bot\bin\Debug\traffic bot.exe.config
+C:\Users\cuciu\source\repos\traffic bot\traffic bot\bin\Debug\traffic bot.exe
+C:\Users\cuciu\source\repos\traffic bot\traffic bot\bin\Debug\traffic bot.pdb
+C:\Users\cuciu\source\repos\traffic bot\traffic bot\obj\Debug\traffic bot.csproj.AssemblyReference.cache
+C:\Users\cuciu\source\repos\traffic bot\traffic bot\obj\Debug\traffic_bot.Main.resources
+C:\Users\cuciu\source\repos\traffic bot\traffic bot\obj\Debug\traffic_bot.Properties.Resources.resources
+C:\Users\cuciu\source\repos\traffic bot\traffic bot\obj\Debug\traffic bot.csproj.GenerateResource.cache
+C:\Users\cuciu\source\repos\traffic bot\traffic bot\obj\Debug\traffic bot.csproj.CoreCompileInputs.cache
+C:\Users\cuciu\source\repos\traffic bot\traffic bot\obj\Debug\traffic bot.exe
+C:\Users\cuciu\source\repos\traffic bot\traffic bot\obj\Debug\traffic bot.pdb
